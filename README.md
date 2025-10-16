@@ -16,7 +16,11 @@
 - [Credit Card Payment Form HTML Folder](./credit_card_payment_form/)
 ## CIS 199: Software Development I
 - [Timer Countdown](./timer_countdown/)
-- [Updated_Date_and_Time](./updated_date_and_time)
+- [Updating Date and Time](./updated_date_and_time)
+- [Windows Console Application Estimating Costs for Auto Body Shop](./console_auto_price_quote_calc/)
+- [Windows Forms App Tracking Exercise Points](./form_track_points/)
+- [Windows Forms App Calculating Catering Contract Final Prices](./form_contract_calc/)
+- [Windows Console Application Student Data Arrays](./console_student_data_array/)
 ## CIS 290: Emerging Topics in CIS: AI Ethics
 ## CIS 310: Database Design
 - [Crow's Foot ERD](CIS_310_E4_Helen_Le.pdf)
