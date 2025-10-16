@@ -43,7 +43,7 @@
 - [Lab 2 Tree and Batch File](./Lab2/)
 
 ## CIS 420: CIS Development Project
-- [Pets4Life Louisville](https://dreamteamp4l.org/)
+- [Nonprofit Website Redesign](https://dreamteamp4l.org/)
 
 ## CIS 443: Analytics Programming
 ## CIS 444: Data Analytics
