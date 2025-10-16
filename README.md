@@ -46,7 +46,17 @@
 - [Nonprofit Website Redesign](https://dreamteamp4l.org/)
 
 ## CIS 443: Analytics Programming
+- [Simple Descriptive Statistics Program](Program1.ipynb)
+- [Equipment Abrasion Analysis](Program2.ipynb)
+        Uses matplotlib and seaborn libraries
+- [Linear Regression Models](Program3.ipynb)
+        Uses scipy, pandas, matplotlib, and seaborn
+- [Analytic Model for Categorical Data](Program4.ipynb)
+        Uses SKLearn, pandas, and seaborn
+
 ## CIS 444: Data Analytics
+- [Exploring Principles of Visual Perception in Design](CIS450_Assignment1.pdf)
+
 ## CIS 450: Special Topics in Data Analytics: Power BI
 ## CIS 481: Introduction to Information Security
 
