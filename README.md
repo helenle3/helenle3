@@ -14,6 +14,7 @@
 - [User Account Login Form HTML Folder](./User_Account_Login_Form/)
 - [Payment Information Form HTML Folder](./payment_information_form/)
 - [Credit Card Payment Form HTML Folder](./credit_card_payment_form/)
+  
 ## CIS 199: Software Development I
 - [Timer Countdown](./timer_countdown/)
 - [Updating Date and Time](./updated_date_and_time)
@@ -21,11 +22,21 @@
 - [Windows Forms App Tracking Exercise Points](./form_track_points/)
 - [Windows Forms App Calculating Catering Contract Final Prices](./form_contract_calc/)
 - [Windows Console Application Student Data Arrays](./console_student_data_array/)
+  
 ## CIS 290: Emerging Topics in CIS: AI Ethics
+- [Google's Trainable Machine - Gathering and Creating Datasets for Biased AI Algorithms](Le_CIS_290-51_Midterm.pdf)
+
 ## CIS 310: Database Design
 - [Crow's Foot ERD](CIS_310_E4_Helen_Le.pdf)
 - [Designing Business Questions and Queries](CIS_310_Designing_Business_Questions_and_Queries.pdf)
+  
 ## CIS 320: Systems Analysis and Design
+- [Ladybirds i1 Presentation](Ladybirds_i1_Presentation.pdf)
+- [Ladybirds Inception Phase (i2) Presentation](Ladybirds_Inception_Phase_i2_Presentation.pdf)
+- [Ladybirds Inception Phase Specification](Ladybirds_Inception_Phase_Specification.pdf)
+- [Analysis Modeling Skills Development - Use Case Descriptions & Diagrams, Sequence Diagrams, and Class Diagram](Helen_Le_Assignment_3.pdf)
+- [Ladybirds Elaboration Phase Presentation](LadyBirds_ElaborationPhase.pdf)
+- [Ladybirds Elaboration Specification Document](Ladybirds_Elaboration_Specification.pdf)
 ## CIS 350: Infrastructure Technology
 ## CIS 420: CIS Development Project
 ## CIS 443: Analytics Programming
