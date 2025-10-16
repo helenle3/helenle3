@@ -1,0 +1,14 @@
+C:\Users\15023\source\repos\Program 1\Program 1\bin\Debug\Program 1.exe.config
+C:\Users\15023\source\repos\Program 1\Program 1\bin\Debug\Program 1.exe
+C:\Users\15023\source\repos\Program 1\Program 1\bin\Debug\Program 1.pdb
+C:\Users\15023\source\repos\Program 1\Program 1\obj\Debug\Program 1.csproj.AssemblyReference.cache
+C:\Users\15023\source\repos\Program 1\Program 1\obj\Debug\Program 1.csproj.CoreCompileInputs.cache
+C:\Users\15023\source\repos\Program 1\Program 1\obj\Debug\Program 1.exe
+C:\Users\15023\source\repos\Program 1\Program 1\obj\Debug\Program 1.pdb
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\bin\Debug\Program 1.exe.config
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\bin\Debug\Program 1.exe
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\bin\Debug\Program 1.pdb
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\obj\Debug\Program 1.csproj.AssemblyReference.cache
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\obj\Debug\Program 1.csproj.CoreCompileInputs.cache
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\obj\Debug\Program 1.exe
+C:\Users\15023\Downloads\CIS Artifacts\Windows\Program 1 - Copy\Program 1\obj\Debug\Program 1.pdb

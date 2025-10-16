@@ -1,0 +1,10 @@
+C:\Users\15023\source\repos\Program 3\Program 3\bin\Debug\Program 3.exe.config
+C:\Users\15023\source\repos\Program 3\Program 3\bin\Debug\Program 3.exe
+C:\Users\15023\source\repos\Program 3\Program 3\bin\Debug\Program 3.pdb
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.AssemblyReference.cache
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program_3.Properties.Resources.resources
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.GenerateResource.cache
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program 3.csproj.CoreCompileInputs.cache
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program 3.exe
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program 3.pdb
+C:\Users\15023\source\repos\Program 3\Program 3\obj\Debug\Program_3.contractCalculatorForm.resources

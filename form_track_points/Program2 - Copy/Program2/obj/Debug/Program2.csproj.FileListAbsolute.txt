@@ -1,0 +1,10 @@
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.csproj.AssemblyReference.cache
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.CodeQuest.resources
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.cache
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+C:\Users\15023\source\repos\Program2\Program2\bin\Debug\Program2.exe.config
+C:\Users\15023\source\repos\Program2\Program2\bin\Debug\Program2.exe
+C:\Users\15023\source\repos\Program2\Program2\bin\Debug\Program2.pdb
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.exe
+C:\Users\15023\source\repos\Program2\Program2\obj\Debug\Program2.pdb
