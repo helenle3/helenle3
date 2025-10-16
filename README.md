@@ -1,4 +1,9 @@
-## 💻 Helen Le 
+<h1 align="center"> 💻 Helen Le </h1>
+<h3 align="center"> Data Analytics and Business Process Management Student</h3>
+
+<p align="center">
+<img src="Helen_Le_Headshot.jpg" alt="Helen Le" width="200"/>
+</p>
 
 💭**About Me:** I am a current student studying Computer Information Systems at the University of Louisville, focused on tracks in data analytics and business process management. This portfolio was created to showcase my skills by referencing projects completed from coursework. Outside of school, I enjoy watching football, shopping, spending time with loved ones, and recently, staying active!
 
