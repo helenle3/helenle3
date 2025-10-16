@@ -11,9 +11,12 @@
 - [View My Resume](Helen_Le_Resume.pdf)
 
 ## CIS 150: Fundamentals of Information Systems
+- [View User Account Login Form HTML Folder]
 ## CIS 199: Software Development I
 ## CIS 290: Emerging Topics in CIS: AI Ethics
 ## CIS 310: Database Design
+- [Crow's Foot ERD](CIS_310_E4_Helen_Le.pdf)
+- [Designing Business Questions and Queries](CIS_310_Designing_Business_Questions_and_Queries.pdf)
 ## CIS 320: Systems Analysis and Design
 ## CIS 350: Infrastructure Technology
 ## CIS 420: CIS Development Project
