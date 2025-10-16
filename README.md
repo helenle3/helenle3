@@ -34,7 +34,7 @@
 - [Ladybirds i1 Presentation](Ladybirds_i1_Presentation.pdf)
 - [Ladybirds Inception Phase (i2) Presentation](Ladybirds_Inception_Phase_i2_Presentation.pdf)
 - [Ladybirds Inception Phase Specification](Ladybirds_Inception_Phase_Specification.pdf)
-- [Analysis Modeling Skills Development - Use Case Descriptions & Diagrams, Sequence Diagrams, and Class Diagram](Helen_Le_Assignment_3.pdf)
+- [Analysis Modeling Skills Development: Use Case Descriptions & Diagrams, Sequence Diagrams, and Class Diagram](Helen_Le_Assignment_3.pdf)
 - [Ladybirds Elaboration Phase Presentation](LadyBirds_ElaborationPhase.pdf)
 - [Ladybirds Elaboration Specification Document](Ladybirds_Elaboration_Specification.pdf)
   
@@ -47,17 +47,18 @@
 
 ## CIS 443: Analytics Programming
 - [Simple Descriptive Statistics Program](Program1.ipynb)
-- [Equipment Abrasion Analysis](Program2.ipynb)
-        Uses matplotlib and seaborn libraries
-- [Linear Regression Models](Program3.ipynb)
-        Uses scipy, pandas, matplotlib, and seaborn
-- [Analytic Model for Categorical Data](Program4.ipynb)
-        Uses SKLearn, pandas, and seaborn
+- [Equipment Abrasion Analysis](Program2.ipynb) --> Uses matplotlib and seaborn libraries
+- [Linear Regression Models](Program3.ipynb) --> Uses scipy, pandas, matplotlib, and seaborn
+- [Analytic Model for Categorical Data](Program4.ipynb) --> Uses SKLearn, pandas, and seaborn
 
 ## CIS 444: Data Analytics
-- [Exploring Principles of Visual Perception in Design](CIS450_Assignment1.pdf)
+- [Excel Chi-Squared Calculations](CIS444_HW7.pdf)
+- [Excel Multiple Regression Modeling and Evaluation](CIS444_HW9.pdf)
+- [Excel Multiple Regression and Predictor Contribution Analysis](CIS444_HW10.pdf)
 
 ## CIS 450: Special Topics in Data Analytics: Power BI
+- [Exploring Principles of Visual Perception in Design](CIS450_Assignment1.pdf)
+
 ## CIS 481: Introduction to Information Security
 
 
