@@ -37,7 +37,11 @@
 - [Analysis Modeling Skills Development - Use Case Descriptions & Diagrams, Sequence Diagrams, and Class Diagram](Helen_Le_Assignment_3.pdf)
 - [Ladybirds Elaboration Phase Presentation](LadyBirds_ElaborationPhase.pdf)
 - [Ladybirds Elaboration Specification Document](Ladybirds_Elaboration_Specification.pdf)
+  
 ## CIS 350: Infrastructure Technology
+- [Lab 1 Root Directories](./Lab1/)
+- [Lab 2 Tree and Batch File](./Lab2/)
+
 ## CIS 420: CIS Development Project
 ## CIS 443: Analytics Programming
 ## CIS 444: Data Analytics
