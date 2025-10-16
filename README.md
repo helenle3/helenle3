@@ -11,8 +11,12 @@
 - [View My Resume](Helen_Le_Resume.pdf)
 
 ## CIS 150: Fundamentals of Information Systems
-- [View User Account Login Form HTML Folder](./User_Account_Login_Form/)
+- [User Account Login Form HTML Folder](./User_Account_Login_Form/)
+- [Payment Information Form HTML Folder](./payment_information_form/)
+- [Credit Card Payment Form HTML Folder](./credit_card_payment_form/)
 ## CIS 199: Software Development I
+- [Timer Countdown](./timer_countdown/)
+- [Updated_Date_and_Time](./updated_date_and_time)
 ## CIS 290: Emerging Topics in CIS: AI Ethics
 ## CIS 310: Database Design
 - [Crow's Foot ERD](CIS_310_E4_Helen_Le.pdf)
