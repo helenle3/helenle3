@@ -59,7 +59,6 @@
 ## CIS 450: Special Topics in Data Analytics: Power BI
 - [Exploring Principles of Visual Perception in Design](CIS450_Assignment1.pdf)
 
-## CIS 481: Introduction to Information Security
 
 
 ## 📚 Skills:
