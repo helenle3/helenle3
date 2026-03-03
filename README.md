@@ -44,6 +44,7 @@
 
 ## CIS 420: CIS Development Project
 - [Nonprofit Website Redesign](https://dreamteamp4l.org/)
+- [Final Project Management Plan](Dream_Team_PMP.pdf)
 
 ## CIS 443: Analytics Programming
 - [Simple Descriptive Statistics Program](Program1.ipynb)
@@ -58,6 +59,7 @@
 
 ## CIS 450: Special Topics in Data Analytics: Power BI
 - [Exploring Principles of Visual Perception in Design](CIS450_Assignment1.pdf)
+- [NFL Dashboard: Offense vs Defense PowerPoint](Helen_Le_CIS450-50_Final_PowerPoint.pdf) 
 
 
 
@@ -65,7 +67,7 @@
 
 **Soft Skills:** Critical Thinking, Problem Solving, Time Management, Organization, Collaboration, Adaptability, Proactivity, Agile Methodology, Leadership, Communication, Stakeholder Relations
 
-**Technical Skills:** Python, MicroSQL Server, Microsoft Visio, Microsoft Access, IBM SPSS, C#, HTML CSS, Microsoft Visual Studio, Microsoft Office Suite (Excel, Word, PowerPoint, Outlook), Adobe Creative Cloud (Premiere Pro, Lightroom), Power BI (currently learning; completion by December 2025)
+**Technical Skills:** Python, MicroSQL Server, Microsoft Visio, Microsoft Access, IBM SPSS, C#, HTML CSS, Microsoft Visual Studio, Microsoft Office Suite (Excel, Word, PowerPoint, Outlook), Adobe Creative Cloud (Premiere Pro, Lightroom), Power BI
 <!--
 **helenle3/helenle3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
