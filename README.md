@@ -25,6 +25,7 @@
   
 ## CIS 290: Emerging Topics in CIS: AI Ethics
 - [Google's Trainable Machine - Gathering and Creating Datasets for Biased AI Algorithms](Le_CIS_290-51_Midterm.pdf)
+- [Ethical Impact Assessment on Hirevue's AI-Powered Assessments](Helen_Le_CIS290-51_Hirevue_EIA.pdf)
 
 ## CIS 310: Database Design
 - [Crow's Foot ERD](CIS_310_E4_Helen_Le.pdf)
